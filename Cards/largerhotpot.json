@@ -1,0 +1,27 @@
+{
+
+	"$schema": "../schemas/card.schema.json",
+
+	"id": "largerhotpot_id",
+
+	"nameTerm": "largerhotpot_nameTerm",
+
+	"descriptionTerm": "largerhotpot_description",
+
+	"icon": "largehotpot.png",
+
+	"value": 15,
+
+	"type": "Structures",
+
+	"_IsBuilding": true,
+
+	"script": "larger_hotpot_idNS.large"
+
+
+
+}
+
+//"larger_hotpot_idNS.larger_hotpot_id"
+
+//"script": "Hotpot"
