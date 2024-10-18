@@ -1,0 +1,14 @@
+{
+  "$schema": "../schemas/blueprint.schema.json",
+  "id": "blueprint_large_hotpot_id",
+  "nameTerm": "largerhotpot_nameTerm",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "iron_bar,iron_bar,iron_bar,iron_bar,iron_bar,iron_bar,magic_dust,magic_dust,magic_dust,magic_dust,campfire",
+      "ResultCard": "largerhotpot_id",
+      "Time": 30,
+      "StatusTerm": "large_hotpot_status"
+    }
+  ]
+}
